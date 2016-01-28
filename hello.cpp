@@ -6,6 +6,9 @@
 
 	int main()
 	{
-		cout << "Hello World!";
+		cout << "Hello World!" << endl;
+		//update #2
+		cout << "Git should be tracking this";
+
 		return 0;
 	}
